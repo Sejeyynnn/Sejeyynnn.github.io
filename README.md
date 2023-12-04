@@ -1,6 +1,10 @@
 # Sejeyynnn.github.io
 Christian Jimson A. De Lima 
 
-bike
+CAR
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLotus_108&psig=AOvVaw0A7YsIlZc9AceIpO3ly7ed&ust=1701745844632000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLi7yZjp9IIDFQAAAAAdAAAAABAD)
+
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbyqCwiuXXtY75Ladc_aMWyIQQc3xRe0GzGM0y7TEo_03R-p43AK7VlA4zh3iZKbWmdWU&usqp=CAU)
+
+da patty car
