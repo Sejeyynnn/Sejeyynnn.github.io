@@ -10,6 +10,9 @@ CAR
 da patty car
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yrneh7ejoxakbketloniszzqzi&cover_image=true&theme=default&show_offline=false&background_color=050505&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 
 hi moira hehe
